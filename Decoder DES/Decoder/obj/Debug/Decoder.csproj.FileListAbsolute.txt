@@ -1,0 +1,20 @@
+C:\Users\Дима\Documents\Учеба\Программы\Информационная безопасность\Decoder\Decoder\bin\Debug\Decoder.exe.config
+C:\Users\Дима\Documents\Учеба\Программы\Информационная безопасность\Decoder\Decoder\bin\Debug\Decoder.exe
+C:\Users\Дима\Documents\Учеба\Программы\Информационная безопасность\Decoder\Decoder\bin\Debug\Decoder.pdb
+C:\Users\Дима\Documents\Учеба\Программы\Информационная безопасность\Decoder\Decoder\obj\Debug\Decoder.csprojAssemblyReference.cache
+C:\Users\Дима\Documents\Учеба\Программы\Информационная безопасность\Decoder\Decoder\obj\Debug\Decoder.Properties.Resources.resources
+C:\Users\Дима\Documents\Учеба\Программы\Информационная безопасность\Decoder\Decoder\obj\Debug\Decoder.csproj.GenerateResource.cache
+C:\Users\Дима\Documents\Учеба\Программы\Информационная безопасность\Decoder\Decoder\obj\Debug\Decoder.csproj.CoreCompileInputs.cache
+C:\Users\Дима\Documents\Учеба\Программы\Информационная безопасность\Decoder\Decoder\obj\Debug\Decoder.exe
+C:\Users\Дима\Documents\Учеба\Программы\Информационная безопасность\Decoder\Decoder\obj\Debug\Decoder.pdb
+C:\Users\Дима\Documents\Учеба\Программы\Информационная безопасность\Decoder\Decoder\obj\Debug\Decoder.Coder.resources
+C:\Users\Дима\Documents\Учеба\Программы\Информационная безопасность\мое\Decoder DES\Decoder\bin\Debug\Decoder DES.exe.config
+C:\Users\Дима\Documents\Учеба\Программы\Информационная безопасность\мое\Decoder DES\Decoder\bin\Debug\Decoder DES.exe
+C:\Users\Дима\Documents\Учеба\Программы\Информационная безопасность\мое\Decoder DES\Decoder\bin\Debug\Decoder DES.pdb
+C:\Users\Дима\Documents\Учеба\Программы\Информационная безопасность\мое\Decoder DES\Decoder\obj\Debug\Decoder.csprojAssemblyReference.cache
+C:\Users\Дима\Documents\Учеба\Программы\Информационная безопасность\мое\Decoder DES\Decoder\obj\Debug\Decoder.Coder.resources
+C:\Users\Дима\Documents\Учеба\Программы\Информационная безопасность\мое\Decoder DES\Decoder\obj\Debug\Decoder.Properties.Resources.resources
+C:\Users\Дима\Documents\Учеба\Программы\Информационная безопасность\мое\Decoder DES\Decoder\obj\Debug\Decoder.csproj.GenerateResource.cache
+C:\Users\Дима\Documents\Учеба\Программы\Информационная безопасность\мое\Decoder DES\Decoder\obj\Debug\Decoder.csproj.CoreCompileInputs.cache
+C:\Users\Дима\Documents\Учеба\Программы\Информационная безопасность\мое\Decoder DES\Decoder\obj\Debug\Decoder DES.exe
+C:\Users\Дима\Documents\Учеба\Программы\Информационная безопасность\мое\Decoder DES\Decoder\obj\Debug\Decoder DES.pdb
